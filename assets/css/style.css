@@ -23,7 +23,7 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 2px 2px lavender;
+    box-shadow: 0 2px 2px black;
 }
 
 header a {
@@ -35,7 +35,7 @@ h1 {
     font-family: 'Fraunes', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: crimson;
+    color: black;
 }
 
 #menu {
@@ -49,8 +49,20 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid crimson;
+    border-bottom: 1px solid black;
 }
+
+/* Navbar styles with dropdown toggle */
+nav {
+    position: absolute;
+    background-color: lavender;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px black;
+    display: none;
+}
+
 main {
     background-color: bisque;
     flex: 1 0 auto;
