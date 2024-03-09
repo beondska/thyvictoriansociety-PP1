@@ -25,8 +25,17 @@ header {
     box-shadow: 0 2px 2px lavender;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+
+}
+
 h1 {
     font-family: 'Fraunes', serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: blue;
 }
 main {
     background-color: bisque;
