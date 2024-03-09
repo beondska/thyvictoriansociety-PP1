@@ -4,7 +4,15 @@
     box-sizing: border-box;
 }
 
-
+/* General styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: antiquewhite;
+    
+}
 header {
     background-color: blueviolet;
 
@@ -12,6 +20,7 @@ header {
 
 main {
     background-color: bisque;
+    flex: 1 0 auto;
 
 }
 
