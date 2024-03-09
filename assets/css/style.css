@@ -13,12 +13,16 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: antiquewhite;
+    color: lavender;
     font-family: 'Fraunces', serif;    
 }
 header {
-    background-color: blueviolet;
-
+    background-color: antiquewhite;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px lavender;
 }
 
 h1 {
