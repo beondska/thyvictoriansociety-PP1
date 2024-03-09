@@ -66,6 +66,7 @@ nav {
     display: none;
     top: 100%;
 }
+
 /* Nav toggle */
 #nav-toggle:checked~nav {
    display: block; 
@@ -77,11 +78,13 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
-    
 }
+
+/* Main content */
 main {
     background-color: bisque;
     flex: 1 0 auto;
+    margin-top: 47px;
 }
 
 footer {
