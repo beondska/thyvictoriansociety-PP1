@@ -16,6 +16,7 @@ body {
     color: lavender;
     font-family: 'Fraunces', serif;    
 }
+
 header {
     background-color: antiquewhite;
     padding: 0 1rem;
@@ -28,19 +29,31 @@ header {
 header a {
     text-decoration: none;
     color: inherit;
-
 }
 
 h1 {
     font-family: 'Fraunes', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: blue;
+    color: crimson;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 110%;
+    list-style-type: armenian;
+}
+
+#menu > li {
+    margin-bottom: 1rem;
+}
+
+.active {
+    border-bottom: 1px solid crimson;
 }
 main {
     background-color: bisque;
     flex: 1 0 auto;
-
 }
 
 footer {
