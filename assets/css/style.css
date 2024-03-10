@@ -13,7 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: lavender;
+    color: black;
     font-family: 'Fraunces', serif;    
 }
 
@@ -44,7 +44,7 @@ h1 {
 #menu {
     font-size: 110%;
     letter-spacing: 110%;
-    list-style-type: armenian;
+    list-style-type: none;
 }
 
 #menu > li {
@@ -58,7 +58,7 @@ h1 {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: lavender;
+    background-color: antiquewhite;
     width: 100%;
     left: 0;
     padding: 0 1rem;
