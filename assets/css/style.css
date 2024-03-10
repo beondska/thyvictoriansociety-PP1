@@ -86,6 +86,12 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
+/* Victorians ID*/
+#victorians {
+    height: 600px;
+    width: 100%;
+    background: url("../images/Thy\ Victorian\ Society\ back\ image.jpg") no-repeat center center/cover;
+}
 
 /* Footer */
 #social-networks {
