@@ -90,17 +90,16 @@ nav {
 
 /* Main content */
 main {
+    margin: 0;
+    background-attachment: fixed;
+    top: 0;
+    background-image: url("../images/Thy\ Victorian\ Society\ back\ image.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-repeat: no-repeat;
     background-color: bisque;
     flex: 1 0 auto;
     margin-top: 47px;
-}
-
-/* Victorians ID*/
-#victorians {
-    height: 600px;
-    width: 100%;
-    background: url("../images/Thy\ Victorian\ Society\ back\ image.jpg") no-repeat center center/cover;
-
 }
 
 .sections {
