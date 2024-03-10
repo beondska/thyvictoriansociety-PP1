@@ -21,7 +21,7 @@ h1, h2, h3 {
     font-family: 'Fraunes', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: black;
+    color:black;
 }
 
 header {
@@ -94,23 +94,14 @@ main {
     position: relative;
 }
 
-/* aqui é o quadrado do titulo parecido com o love running */
-#cover-text {
-    background-color: aqua;
-    font-size: 130%; 
-    position: absolute;
-    bottom: 30px;
-    width: 80%;
-    min-width: 200px;
-    padding-top: 40px;
-    padding-left: 10px;
+.sections {
+    margin: 0 10px 100px;
+    padding: 10px;
+    border: 3px solid rgba(34, 34, 34, 0.8);
+    border-radius: 10px;
+    margin-top: 120px;
+    background-color: rgba(34, 34, 34, 0.8);
 }
-
-/* esse aqui é codigo da lateral pra titulo do love running*/
-#cover-text > h2, #cover-text > h3 {
-    color: chartreuse;
-}
-
 /* Footer */
 #social-networks {
     text-align: center;
