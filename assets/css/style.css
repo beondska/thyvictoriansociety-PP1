@@ -94,6 +94,7 @@ main {
     position: relative;
 }
 
+/* aqui é o quadrado do titulo parecido com o love running */
 #cover-text {
     background-color: aqua;
     font-size: 130%; 
@@ -105,6 +106,7 @@ main {
     padding-left: 10px;
 }
 
+/* esse aqui é codigo da lateral pra titulo do love running*/
 #cover-text > h2, #cover-text > h3 {
     color: chartreuse;
 }
