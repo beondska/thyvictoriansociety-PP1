@@ -18,12 +18,12 @@ body {
 }
 
 h1,
-h2,
-h3 {
+h2 {
     font-family: 'Fraunes', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: black;
+    
 }
 
 header {
@@ -88,6 +88,19 @@ nav {
     font-size: 2rem;
 }
 
+#menu a {
+    text-decoration: none;
+    color: #573f3f;
+}
+
+#menu a:hover {
+    color: #701212;
+}
+
+#menu .active {
+    border-bottom: 1.5px solid #ddd;
+}
+
 /* Main content */
 main {
     margin: 0;
@@ -100,6 +113,14 @@ main {
     background-color: bisque;
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+#about {
+    line-height: 20px;
+}
+
+#about h2 {
+    margin-bottom: 25px;
 }
 
 .sections {
@@ -174,4 +195,6 @@ main {
     #menu a:hover {
         border-bottom: 1px solid black;
     }
+
+    
 }
