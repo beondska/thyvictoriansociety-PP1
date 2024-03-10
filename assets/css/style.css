@@ -86,22 +86,24 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
 /* Victorians ID*/
 #victorians {
     height: 600px;
     width: 100%;
     background: url("../images/Thy\ Victorian\ Society\ back\ image.jpg") no-repeat center center/cover;
-    position: relative;
+   
 }
 
 .sections {
     margin: 0 10px 100px;
     padding: 10px;
-    border: 3px solid rgba(34, 34, 34, 0.8);
+    border: 3px solid black;
     border-radius: 10px;
     margin-top: 120px;
-    background-color: rgba(34, 34, 34, 0.8);
+    background-color: black;
 }
+
 /* Footer */
 #social-networks {
     text-align: center;
