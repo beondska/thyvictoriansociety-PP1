@@ -63,7 +63,7 @@ header a {
     padding-bottom: 5px;
     background-color: antiquewhite;
     gap: 10px;
-    
+
 }
 
 #menu>li {
@@ -154,6 +154,54 @@ main {
     text-align: center;
 }
 
+/* Gallery page */
+#photos img {
+    width: 50%;
+    line-height: 1em;
+}
+
+#photos {
+    line-height: 2;
+}
+
+.join-button {
+    margin-top: 5px;
+    border-radius: 1px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: rgb(139, 88, 88);
+    color: antiquewhite;
+}
+section {
+    margin: auto;
+    margin-top: 2rem;
+    width: 80%;
+    background-color: rgba(250, 235, 215, 0.9);
+    padding: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* Form */
+#signup {
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 30% 0 30%;
+    flex-grow: 1;
+}
+
+section {
+    margin: auto;
+    margin-top: 2rem;
+    width: 80%;
+    background-color: rgba(250, 235, 215, 0.9);
+    padding: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -166,7 +214,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #f2ebeb;
+    color: antiquewhite;
 }
 
 /* Media query: tablets and larger (768px and up) */
