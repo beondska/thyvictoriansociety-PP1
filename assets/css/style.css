@@ -143,6 +143,17 @@ main {
 
 }
 
+.section.section {
+    margin: auto;
+    margin-top: 5rem;
+    width: 80%;
+    background-color: rgba(250, 235, 215, 0.9);
+    padding: 1rem;
+    align-items: center;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
