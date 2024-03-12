@@ -1,3 +1,8 @@
+# THY VICTORIAN SOCIETY
+## A space for lovers of a bygone era!
+
+You can reach the page link 
+
  Table of Contents
 1. [Introduction](#introduction)
 2. [About](#about)
@@ -10,9 +15,6 @@
 6. [Deployment](#deployment)
 7. [Media](#media)
 8. [Credits & Acknowledgements](#credits--acknowledgements)
-
-# THY VICTORIAN SOCIETY
-## A space for lovers of a bygone era!
 
 
 # INTRODUCTION
@@ -55,4 +57,4 @@ I published the Github page with my website by going to my repository settings a
 All images on the Gallery page were taken by me, Bianca Betinelli and my dear friend Caroline Daleffe and therefore it is our work that are displayed.
 
 # CREDITS AND ACKNOWLEDGEMENTS 
-I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional suport. Also to my friend Caroline for the great energy and friendship throw the years.To my friend Tania that has taking her personal time to teach me suing  stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patric who aided me when everything was a bit caotic and some of my new "slack" friends, that aided ne when I needed the most.
+I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional suport. Also to my friend Caroline for the great energy and friendship throw the years.To my friend Tania that has taking her personal time to teach me suing  stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patric who aided me when everything was a bit caotic and some of my new "Slack" friends, that aided ne when I needed the most.
