@@ -12,9 +12,6 @@ You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1
 3. [Features](#features)
 4. [User Experience (UX)](#user-experience-ux)
 5. [Testing](#testing)
-    - [Table of Testing Features](#table-of-testing-features)
-    - [Lighthouse Scoring](#lighthouse-scoring)
-    - [Validator Testing](#validator-testing)
 6. [Known Issues](#known-issues)
 7. [Deployment](#deployment)
 8. [Media](#media)
@@ -70,12 +67,12 @@ Moving on, we have the  **Gallery**
 ![Thy Victorian Society gallery page](documents/thyvictorian-gallery.png)
 
 
-**Join our community section**
+Last but not least **Join our community section**
 - This section consist of a header and a form for the visitor to sign up to our newsletter and tells us a bit about themselves.
 - There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
 ![Thy Victorian Society signup page](documents/thyvictorian.signup.png)
 
-
+**Error 404**
 - This section consist of an Error page. Information is shown when the user inputs a non existing webpage.
 - Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 ![Thy Victorian Society 404Error page](documents/404error.png)
@@ -98,6 +95,17 @@ Testing was performed to ensure all navigation links on the respective pages nav
 Links on all pages navigated to the correct pages as expected.
 
 
+###  W3C Validator
+[WC3](https://validator.w3.org/) was used to validate all HTML and CSS.
+
+Both CSS and all of the HTML pages: index.html , gallery.html, signup.html and 404.html no errors were founded.
+![HTML response](documents/test2.png)
+
+
+**Responsiveness**
+
+All pages were tested to ensure responsiveness on screen sizes as defined in WCAG 2.1 Reflow criteria for responsive design on Chrome, Edge, Firefox and Safari browsers. No horizontal scroll is present. No elements overlap.
+
 
 # KNOWN ISSUES
 In my first experience using GitHub, I initially misunderstood the process. I thought that even minor changes, such as fixing a typo or coding a single line, required committing and pushing to see the effects on my local copy of the website. So I thought I was doing something wrong, and I deleted the entire project and started over.
@@ -113,4 +121,4 @@ All images on the Gallery page were taken by me, Bianca Betinelli and my dear fr
 
 
 # CREDITS AND ACKNOWLEDGEMENTS
-I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional support. Also, to my friend Caroline for the great energy and friendship throw the years. To my friend Tania that has taking her personal time to teach me suing stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patrick who aided me when everything was a bit chaotic and some of my new "Slack" friends, that aided me when I needed the most.
+I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional support. Also, to my friend Caroline for the great energy and friendship throw the years. To my friend Tania that has taking her personal time to teach me suing stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patrick who aided me when everything was a bit chaotic and some of my new "Slack" friends, expecially Andreas that aided me when I needed the most.
