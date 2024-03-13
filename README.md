@@ -2,9 +2,6 @@
 ## A space for lovers of a bygone era!
 
 
-![Thy Victorian Society Website shown on different devices](documents/thyvictorian.jpg)
-
-
 You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1/index.html)
 
 
@@ -13,30 +10,33 @@ You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1
 1. [Introduction](#introduction)
 2. [About](#about)
 3. [Features](#features)
-4. [Testing](#testing)
+4. [User Experience (UX)](#user-experience-ux)
+5. [Testing](#testing)
     - [Table of Testing Features](#table-of-testing-features)
     - [Lighthouse Scoring](#lighthouse-scoring)
     - [Validator Testing](#validator-testing)
-5. [Known Issues](#known-issues)
-6. [Deployment](#deployment)
-7. [Media](#media)
-8. [Credits & Acknowledgements](#credits--acknowledgements)
+6. [Known Issues](#known-issues)
+7. [Deployment](#deployment)
+8. [Media](#media)
+9. [Credits & Acknowledgements](#credits--acknowledgements)
 
 
 # INTRODUCTION
-The Victorian era, in British history, is the period corresponding roughly but not exactly to the period of Queen Victoria's reign (1837–1901) and had fashion impact around the world.
+The Victorian era, in British history, is the period corresponding roughly but not exactly to the period of Queen Victoria's reign (1837–1901) and had fashion impact around the world since.
 
 
 The intention behind this project is to reach out the majority of enthusiastic and admires of the Victorian Era and build a community, exchange experiences and be able to participate in events related to that.
+
+![Thy Victorian Society Website shown on different devices](documents/thyvictorian.jpg)
 
 
 # ABOUT
 This project is an extension of my love and the hobby I cultivated throw the years of my life and that increased during the pandemic time when we all had to be recluse, and I had the privilege to be able to use my time to learn how to sue, create and make clothes and some stays-corset from the Victorian Age Epoch.
 
 
-![Thy Victorian Society home page](documents/first%20page.png)
+![Thy Victorian Society home page](documents/thyvictorianscietybackimage.jpg)
 
-![Thy victorian Society home page](documents/first%20page.png)
+
 
 # FEATURES
 
@@ -51,8 +51,8 @@ This header exists on every page.
 
 
 Next, we have **Hero Image**
-![Portrait of a Victorian encounter](documents/Thy%20Victorian%20Society%20back%20image.jpg)
-- This beautiful image anchors all the pages to capture's the user attention.
+![Portrait of a Victorian encounter](documents/thyvictorianscietybackimage.jpg)
+- This beautiful image anchors all the pages to capture's the user attention. Author is anonymous.
 
 
 
@@ -73,11 +73,13 @@ Moving on, we have the  **Gallery**
 **Join our community section**
 - This section consist of a header and a form for the visitor to sign up to our newsletter and tells us a bit about themselves.
 - There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
-
 ![Thy Victorian Society signup page](documents/thyvictorian.signup.png)
 
-- This section consist of an header and a form for the visitor to sign up our newsletter and tells us a bit about themselfs.
-- There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
+
+- This section consist of an Error page. Information is shown when the user inputs a non existing webpage.
+- Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
+![Thy Victorian Society 404Error page](documents/404error.png)
+
 
 # TESTING
 **Navigation Links**
@@ -99,7 +101,7 @@ Links on all pages navigated to the correct pages as expected.
 
 # KNOWN ISSUES
 In my first experience using GitHub, I initially misunderstood the process. I thought that even minor changes, such as fixing a typo or coding a single line, required committing and pushing to see the effects on my local copy of the website. So I thought I was doing something wrong, and I deleted the entire project and started over.
-This is my first ever website project and I struggled with terms of coding and the design aspects mirroring from HTML to CSS files. I have learned a lot from this, however there are still present issues on the website and I do hope to have the time and focus on solving.
+This is my first ever website project and I struggled with terms of coding and the design aspects mirroring from HTML to CSS files. I have learned a lot from this, however there are still present issues on the website and I do hope to have the knowledge and focus on solving.
 
 
 # DEPLOYMENTS
