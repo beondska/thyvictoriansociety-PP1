@@ -37,22 +37,43 @@ This project is an extension of my love and the hobby I cultivated throw the yea
 ![Thy Victorian Society home page](documents/first%20page.png)
 
 
-# FEATURES 
+# FEATURES
+
 Starting with **Nav Bar**
-- Present on the pages the nav bar is fully accessible and responsive for users to navigate through the website.
-- It brings the user to Home, Gallery and Join our Community pages.
+This header exists on every page.
+![Thy Victorian Society navigation bar](documents/thyvictorian-navigation.png)
+- Present on the pages, the nav bar is fully accessible and responsive for users to navigate through the website.
+- The links also has a hover effect when having your mouse pointer of the header colors with the overall theme.
+- It brings the user to Home, Gallery, Join our Community pages and also a 404 Error page.
+- The whole site is responsive and works well for all kind of different devices.
+
+
 
 Next, we have **Hero Image**
-![Portrait of a victorian encounter](ThyVictorianSocietybackimage.jpg)
-- This beautiful image anchors all of the pages to capture's the user attention.
+![Portrait of a Victorian encounter](documents/Thy%20Victorian%20Society%20back%20image.jpg)
+- This beautiful image anchors all the pages to capture's the user attention.
+
+
+
 
 Furthermore, **The Footer**
-- This directs the user to our external social media links, in order: Instagram, Youtube, Twitter and Facebook pages.
+This footer exists on every page.
+- This directs the user to our external social media links, in order: Instagram, YouTube, Twitter and Facebook pages.
+![All pages footer](documents/thyvictorian-footer.png)
 
-Last but not least the **Gallery**
+
+
+Moving on, we have the  **Gallery**
 - The gallery features multiple images of our past events on the website.
 - There is responsive media coding to help scale the content for mobile and website.
+![Thy Victorian Society gallery page](documents/thyvictorian-gallery.png)
 
+
+**Join our community section**
+![Thy Victorian Society signup page](documents/thyvictorian.signup.png)
+
+- This section consist of a header and a form for the visitor to sign up to our newsletter and tells us a bit about themselves.
+- There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
 
 # TESTING
 
