@@ -1,7 +1,9 @@
 # THY VICTORIAN SOCIETY
 ## A space for lovers of a bygone era!
 
-You can reach the page link (https://beondska.github.io/thyvictoriansociety-PP1/)
+![Thy Victorian Society Website shown on different devices](documents/thyvictorian.jpg)
+
+You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1/)
 
  Table of Contents
 1. [Introduction](#introduction)
@@ -25,25 +27,54 @@ The intention behind this project is to reach out the majority of enthusiastics 
 # ABOUT
 This project is an extention of my love and the hobbie I cultivated throw the years of my life and  that incrised during the pandemic time when we all had to be recluded and I had the privilege to be able to use my time to learn how to sue, create and make clothes and some stays-corset from the Victorian Age Epoch.
 
+![Thy victorian Society home page](documents/first%20page.png)
 
 # FEATURES 
+
 Starting with **Nav Bar**
+This header exist on every page.
+![Thy Victorian Society navegation bar](documents/thyvictorian-navigation.png)
 - Present on the pages the nav bar is fully accessible and responsive for users to navigate through the website.
-- It brings the user to Home, Gallery and Join our Community pages.
+- The links also has a hover effect when having your mouse pointer of the header colors with the overall theme.
+- It brings the user to Home, Gallery, Join our Community pages and also a 404 Error page.
+- The whole site is responsive and works well for all kind of different devices.
+
 
 Next, we have **Hero Image**
-![Portrait of a victorian encounter](ThyVictorianSocietybackimage.jpg)
+![Portrait of a victorian encounter](documents/Thy%20Victorian%20Society%20back%20image.jpg)
 - This beautiful image anchors all of the pages to capture's the user attention.
 
-Furthermore, **The Footer**
-- This directs the user to our external social media links, in order: Instagram, Youtube, Twitter and Facebook pages.
 
-Last but not least the **Gallery**
+Furthermore, **The Footer**
+This footer exist on every page.
+- This directs the user to our external social media links, in order: Instagram, Youtube, Twitter and Facebook pages.
+![All pages footer](documents/thyvictorian-footer.png)
+
+
+Moving on we have the  **Gallery**
 - The gallery features multiple images of our past events on the website.
 - There is responsive media coding to help scale the content for mobile and website.
+![Thy Victorian Society gallery page](documents/thyvictorian-gallery.png)
 
+**Join our community section**
+
+**FOTO DA ULTIMA PAGINA QUANDO FICAR PRONTA**
+
+- This section consist of an header and a form for the visitor to sign up our newsletter and tells us a bit about themselfs.
+- There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
 
 # TESTING
+**Navigation Links**
+
+Testing was performed to ensure all navigation links on the respective pages navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
+
+| Navigation Link    | Page to Load  |
+| -----------------  |---------------|
+| Home               | index.html    |
+| Gallery            | gallery.html  |
+| Join our community | signup.html   |
+
+Links on all pages navigated to the correct pages as expected.
 
 
 # KNOWN ISSUES
