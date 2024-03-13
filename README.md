@@ -70,12 +70,28 @@ Moving on, we have the  **Gallery**
 
 
 **Join our community section**
-![Thy Victorian Society signup page](documents/thyvictorian.signup.png)
-
 - This section consist of a header and a form for the visitor to sign up to our newsletter and tells us a bit about themselves.
 - There is an input-fields that was required so the user fill up his information in all fields for it to be able to submit.
 
+![Thy Victorian Society signup page](documents/thyvictorian.signup.png)
+
+
 # TESTING
+**Navigation Links**
+
+
+Testing was performed to ensure all navigation links on the respective pages navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
+
+
+| Navigation Link    | Page to Load  |
+| -----------------  |---------------|
+| Home               | index.html    |
+| Gallery            | gallery.html  |
+| Join our community | signup.html   |
+
+
+Links on all pages navigated to the correct pages as expected.
+
 
 
 # KNOWN ISSUES
