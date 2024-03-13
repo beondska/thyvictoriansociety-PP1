@@ -1,7 +1,13 @@
 # THY VICTORIAN SOCIETY
 ## A space for lovers of a bygone era!
 
-You can reach the page link (https://beondska.github.io/thyvictoriansociety-PP1/)
+
+![Thy Victorian Society Website shown on different devices](documents/thyvictorian.jpg)
+
+
+You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1/index.html)
+
+
 
  Table of Contents
 1. [Introduction](#introduction)
@@ -20,10 +26,15 @@ You can reach the page link (https://beondska.github.io/thyvictoriansociety-PP1/
 # INTRODUCTION
 The Victorian era, in British history, is the period corresponding roughly but not exactly to the period of Queen Victoria's reign (1837–1901) and had fashion impact around the world.
 
-The intention behind this project is to reach out the majority of enthusiastics and admires od the Victorian Era and build a comminity, exchange experiences and be able to participate on events related to that.
+
+The intention behind this project is to reach out the majority of enthusiastic and admires of the Victorian Era and build a community, exchange experiences and be able to participate in events related to that.
+
 
 # ABOUT
-This project is an extention of my love and the hobbie I cultivated throw the years of my life and  that incrised during the pandemic time when we all had to be recluded and I had the privilege to be able to use my time to learn how to sue, create and make clothes and some stays-corset from the Victorian Age Epoch.
+This project is an extension of my love and the hobby I cultivated throw the years of my life and that increased during the pandemic time when we all had to be recluse, and I had the privilege to be able to use my time to learn how to sue, create and make clothes and some stays-corset from the Victorian Age Epoch.
+
+
+![Thy Victorian Society home page](documents/first%20page.png)
 
 
 # FEATURES 
