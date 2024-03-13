@@ -153,6 +153,12 @@ main {
     text-align: center;
 }
 
+#error {
+    max-width: 300px;
+    text-align: center;
+    color: black;
+}
+
 /* Gallery page */
 #photos img {
     width: 50%;
