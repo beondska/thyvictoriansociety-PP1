@@ -3,7 +3,8 @@
 
 ![Thy Victorian Society Website shown on different devices](documents/thyvictorian.jpg)
 
-You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1/)
+You can reach the page [here]
+
 
  Table of Contents
 1. [Introduction](#introduction)
