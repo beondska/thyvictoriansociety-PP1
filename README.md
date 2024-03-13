@@ -95,14 +95,17 @@ Links on all pages navigated to the correct pages as expected.
 
 
 # KNOWN ISSUES
-In my first experience using Github, I initially misunderstood the process. I thought that even minor changes, such as fixing a typo or coding a single line, required committing and pushing to see the effects on my local copy of the website. So I thought I was doind something wrong and I deleted the entire project and started over.
-This is my first ever website project and I struggled with terms of coding and the design aspects mirrowing from html to css files. I have learnt a lot from this however there are still present issues on the website and I do hope to have the time and focus on solving.
+In my first experience using GitHub, I initially misunderstood the process. I thought that even minor changes, such as fixing a typo or coding a single line, required committing and pushing to see the effects on my local copy of the website. So I thought I was doing something wrong, and I deleted the entire project and started over.
+This is my first ever website project and I struggled with terms of coding and the design aspects mirroring from HTML to CSS files. I have learned a lot from this, however there are still present issues on the website and I do hope to have the time and focus on solving.
+
 
 # DEPLOYMENTS
-I published the Github page with my website by going to my repository settings and under the code and automations thus deploying the website to be live.
+I published the GitHub page with my website by going to my repository settings and under the code and automations, thus deploying the website to be live.
+
 
 # MEDIA
-All images on the Gallery page were taken by me, Bianca Betinelli and my dear friend Caroline Daleffe and therefore it is our work that are displayed.
+All images on the Gallery page were taken by me, Bianca Betinelli and my dear friend Caroline Daleffe, and therefore it is our work that are displayed.
 
-# CREDITS AND ACKNOWLEDGEMENTS 
-I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional suport. Also to my friend Caroline for the great energy and friendship throw the years.To my friend Tania that has taking her personal time to teach me suing  stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patric who aided me when everything was a bit caotic and some of my new "Slack" friends, that aided ne when I needed the most.
+
+# CREDITS AND ACKNOWLEDGEMENTS
+I would like to extend some thanks, not only to the online resources, but also to my husband and best friend, Herick Zerunian that helped me during this project being my first fan, motivational and emotional support. Also, to my friend Caroline for the great energy and friendship throw the years. To my friend Tania that has taking her personal time to teach me suing stays corsets, clothes and so much more about the Victorian Era that we both hold dear. To my mentor Rory Patrick who aided me when everything was a bit chaotic and some of my new "Slack" friends, that aided me when I needed the most.
