@@ -117,6 +117,8 @@ All pages were tested to ensure responsiveness on screen sizes as defined in WCA
 
 **Lighthouse**
 Used within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+
+
 ![Diagnose performance issues](documents/txt.png)
 
 
