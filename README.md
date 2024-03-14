@@ -11,11 +11,12 @@ You can reach the page [here](https://beondska.github.io/thyvictoriansociety-PP1
 2. [About](#about)
 3. [Features](#features)
 4. [User Experience (UX)](#user-experience-ux)
-5. [Testing](#testing)
-6. [Known Issues](#known-issues)
-7. [Deployment](#deployment)
-8. [Media](#media)
-9. [Credits & Acknowledgements](#credits--acknowledgements)
+5. [Design](#design)
+6. [Testing](#testing)
+7. [Known Issues](#known-issues)
+8. [Deployment](#deployment)
+9. [Media](#media)
+10. [Credits & Acknowledgements](#credits--acknowledgements)
 
 
 # INTRODUCTION
@@ -31,7 +32,7 @@ The intention behind this project is to reach out the majority of enthusiastic a
 This project is an extension of my love and the hobby I cultivated throw the years of my life and that increased during the pandemic time when we all had to be recluse, and I had the privilege to be able to use my time to learn how to sue, create and make clothes and some stays-corset from the Victorian Age Epoch.
 
 
-![Thy Victorian Society home page](documents/thyvictorianscietybackimage.jpg)
+![Thy Victorian Society home page](documents/firstpage.png)
 
 
 
@@ -77,6 +78,14 @@ Last but not least **Join our community section**
 - Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 ![Thy Victorian Society 404Error page](documents/404error.png)
 
+All pages were responsive and worke on mobile 
+
+## Design
+### Color Scheme
+
+![Color Scheme](documents/colors.jpg)
+For this project I choose colors that felt retro, intimate and timeless. This color-scheme reflects the epoch in its best.
+
 
 # TESTING
 **Navigation Links**
@@ -85,14 +94,14 @@ Last but not least **Join our community section**
 Testing was performed to ensure all navigation links on the respective pages navigated to the correct pages as per design. This was done by clicking on the navigation links on each page.
 
 
-| Navigation Link    | Page to Load  |
+|  Navigation Link   | Page to Load  |
 | -----------------  |---------------|
-| Home               | index.html    |
-| Gallery            | gallery.html  |
-| Join our community | signup.html   |
+| Home               |  index.html   |
+| Gallery            |  gallery.html |
+| Join our community |  signup.html  |
+| Error404           |  404.html     |
 
-
-Links on all pages navigated to the correct pages as expected.
+Links on all pages navigated to the correct pages as expected. Include the Error page.
 
 
 ###  W3C Validator
