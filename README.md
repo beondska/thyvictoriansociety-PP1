@@ -78,7 +78,7 @@ Last but not least **Join our community section**
 - Alert and information that the page cannot be reached and also a link to take the user back to the homepage.
 ![Thy Victorian Society 404Error page](documents/404error.png)
 
-All pages were responsive and worke on mobile 
+All pages were responsive and worked on smaller screens as well.  
 
 ## Design
 ### Color Scheme
@@ -104,7 +104,7 @@ Testing was performed to ensure all navigation links on the respective pages nav
 Links on all pages navigated to the correct pages as expected. Include the Error page.
 
 
-###  W3C Validator
+**W3C Validator**
 [WC3](https://validator.w3.org/) was used to validate all HTML and CSS.
 
 Both CSS and all of the HTML pages: index.html , gallery.html, signup.html and 404.html no errors were founded.
@@ -114,6 +114,10 @@ Both CSS and all of the HTML pages: index.html , gallery.html, signup.html and 4
 **Responsiveness**
 
 All pages were tested to ensure responsiveness on screen sizes as defined in WCAG 2.1 Reflow criteria for responsive design on Chrome, Edge, Firefox and Safari browsers. No horizontal scroll is present. No elements overlap.
+
+**Lighthouse**
+Used within the Chrome Developer Tools to test the performance, accessibility, best practices and SEO of the website.
+[Diagnose performance issues](documents/txt.png)
 
 
 # KNOWN ISSUES
